@@ -1,0 +1,54 @@
+var =  use for changing value
+ 
+let = use for constant value
+
+append method = Adds a new element at the end of the array.
+
+String interpolation = combing valeibale snad constant inside the string \("string")
+
+array = Arrays are effectively ordered lists and are used to store lists of information in cases where order is important.
+
+Dictionaries  = are unordered collections of key-value associations. 
+				Arrays, sets, and dictionaries in Swift are always clear about the types of values and keys that they can store.
+				This means that you cannot insert a value of the wrong type into a collection by mistake.
+				
+				
+Sets  = different in the sense that order does not matter and these will be used in cases where order does not matter. 
+
+Tuples  = which are used to group multiple values in a single compound Value.
+
+for-in loops = Swift also provides a for-in loop that makes it easy to iterate over arrays, dictionaries, ranges, strings, and other sequences.
+
+while loop and repeat while loop  = A while loop performs a set of statements until a condition becomes false
+
+while evaluates its condition at the start of each pass through the loop.
+
+repeat-while evaluates its condition at the end of each pass through the loop.
+
+switch statement =  A switch statement considers a value and compares it against several possible matching patterns.
+
+GUARD =A guard statement is used to transfer program control out of a scope if one or more conditions aren’t met.
+
+Optional unwarping = Optional chaining in Swift is similar to messaging nil in Objective-C, but in a way that works for any type, and that can be checked for success or failure.
+
+Functions :are define block of code that allo us to performs specific tasks in over code.
+
+closure = Closures are self-contained blocks of functionality that can be passed around and used in your code. Closures
+		in 	Swift are similar to blocks in C and Objective-C and to lambdas in other programming languages.
+
+Typealias = A type alias allows you to provide a new name for an existing data type into your program.The main purpose 
+			of is to make our code more readable, and clearer in context for human understanding.
+			
+Swift Overriding = In swift, Overriding is the process in which subclass is fully responsible to change or re-implement the instance method, instance property and type property which is defined in parent class or superclass. 
+
+optional chaning = Optional chaining in Swift is similar to messaging nil in Objective-C, but in a way that works for any type, and that can be checked for success or failure.
+
+type casting =  Type casting is used to check the type of instances to find out whether it belongs to particular class type. Also, it checks hierarchy of classes and its subclasses to check and cast those instances to make it as a same hierarchy.
+
+Enumerations= An enumeration defines a common type for a group of related values and enables you to work with those values in a type-safe way within your code.
+An enumeration is a user-defined data type which consists of set of related values. Keyword enum is used to defined enumerated data type.
+
+Extensions= Extensions add new functionality to an existing class, structure, enumeration, or protocol type. This includes the ability to extend types for which you do not have access to the original source code (known as retroactive modeling).
+
+Protocols =A protocol defines a blueprint of methods, properties, and other requirements that suit a particular task or piece of functionality. The protocol can then be adopted by a class, structure, or enumeration to provide an actual implementation of those requirements. Any type that satisfies the requirements of a protocol is said to conform to that protocol.
+
